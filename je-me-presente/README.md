@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projet semaine 4 jour 4 à propos de rails 
+* Réalisé par Guillaume @Guigz9 avec l'aide de son camarade de groupe
 
-Things you may want to cover:
+* J'ai juste fais l'exo statique car je suis resté bloqué 3h sur .erb que j'avais pas vu, j'ai aps eu le courage d'enchainer sur la suite.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Oubli pas de faire un petit $ bundle dans le dossier
